@@ -1,0 +1,132 @@
+<div class="row testimonial-slider ">
+                    <!-- Testimonial Slide-1 -->
+                    <div class="col-md-12 ">
+                        <div class="testimonial-body ">
+                            <div class="testimonial-container ">
+                                <h4 class="testimonial-success-message ">Completed Successfully!</h4>
+                                <h3 class="testimonial-project-title ">Develop a portfolio website for a digital services company in Australia</h3>
+                                <h2 class="testimonial-message ">"Mahedi worked relentlessly to complete all the designs as per the requirements. He also made great improvements... <a href="https://www.upwork.com/o/profiles/users/~01ad3d63a70c11aab8/" target="_blank" rel="noopener noreferrer">Read More <i class="fi  fi-rr-link"></i> </a>                                    "</h2>
+                                <span class="testimonial-service-rating">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </span>
+                                <span class="testi-client-info">
+                                    <small class="testi from">Upwork's Client</small>
+                                <h5 class="testi-client-name">Rash Islam</h5>
+                                <span class="testi-client-designation">CEO at DigiSci</span>
+                                <span class="testi-client-location"> , Australia</span>
+                                </span>
+                                <img src="./assets/images/upwork.png" alt="upwork logo;" class="img-fluid tst-ft-img">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slide-2 -->
+                    <div class="col-md-12">
+                        <div class="testimonial-body">
+                            <div class="testimonial-container">
+                                <h4 class="testimonial-success-message">Completed Successfully!</h4>
+                                <h3 class="testimonial-project-title">Develop a portfolio website for a digital services company in Australia</h3>
+                                <h2 class="testimonial-message">"Brilliant work and quality delivery on time! Highly recommended!"</h2>
+                                <span class="testimonial-service-rating">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </span>
+                                <span class="testi-client-info">
+                                    <small class="testi from">Upwork's Client</small>
+                                    <h5 class="testi-client-name">Rash Islam</h5>
+                                    <span class="testi-client-designation">CEO at DigiSci</span>
+                                <span class="testi-client-location"> , Australia</span>
+                                </span>
+                                <img src="./assets/images/upwork.png" alt="upwork logo;" class="img-fluid tst-ft-img">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slide-3 -->
+                    <div class="col-md-12">
+                        <div class="testimonial-body">
+                            <div class="testimonial-container">
+                                <h4 class="testimonial-success-message">Completed Successfully!</h4>
+                                <h3 class="testimonial-project-title">Develop a portfolio website for a digital services company in Australia</h3>
+                                <h2 class="testimonial-message">"Mahedi is a really devoted and skilful developer! Will definitely hire him again!"</h2>
+                                <span class="testimonial-service-rating">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </span>
+                                <span class="testi-client-info">
+                                    <small class="testi from">Upwork's Client</small>
+                                    <h5 class="testi-client-name">Rash Islam</h5>
+                                    <span class="testi-client-designation">CEO at DigiSci</span>
+                                <span class="testi-client-location"> , Australia</span>
+                                </span>
+                                <img src="./assets/images/upwork.png" alt="upwork logo;" class="img-fluid tst-ft-img">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slide-4 -->
+                    <div class="col-md-12">
+                        <div class="testimonial-body">
+                            <div class="testimonial-container">
+                                <h4 class="testimonial-success-message">Completed Successfully!</h4>
+                                <h3 class="testimonial-project-title">Develop a portfolio website for a digital services company in Australia</h3>
+                                <h2 class="testimonial-message">"Well, did you sleep after work, did you rest? How do you do that? He did my Front End Developing. He really... <a href="https://www.upwork.com/o/profiles/users/~01ad3d63a70c11aab8/" target="_blank" rel="noopener noreferrer">Read More <i class="fi  fi-rr-link"></i> </a>                                    "</h2>
+                                <span class="testimonial-service-rating">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </span>
+                                <span class="testi-client-info">
+                                    <small class="testi from">Upwork's Client</small>
+                                    <h5 class="testi-client-name">Rash Islam</h5>
+                                    <span class="testi-client-designation">CEO at DigiSci</span>
+                                <span class="testi-client-location"> , Australia</span>
+                                </span>
+                                <img src="./assets/images/upwork.png" alt="upwork logo;" class="img-fluid tst-ft-img">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial Slide-5 -->
+                    <div class="col-md-12">
+                        <div class="testimonial-body">
+                            <div class="testimonial-container">
+                                <h4 class="testimonial-success-message">Completed Successfully!</h4>
+                                <h3 class="testimonial-project-title">Develop a portfolio website for a digital services company in Australia</h3>
+                                <h2 class="testimonial-message">"I hired Mahedi Hassan. He is just awesome. He is very active and communicative. We work together in lots of <a href="https://www.upwork.com/o/profiles/users/~01ad3d63a70c11aab8/" target="_blank" rel="noopener noreferrer">Read More <i class="fi  fi-rr-link"></i> </a>                                    "</h2>
+                                <span class="testimonial-service-rating">
+                                    <ul>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                    </ul>
+                                </span>
+                                <span class="testi-client-info">
+                                    <small class="testi from">Upwork's Client</small>
+                                    <h5 class="testi-client-name">Rash Islam</h5>
+                                    <span class="testi-client-designation">CEO at DigiSci</span>
+                                <span class="testi-client-location"> , Australia</span>
+                                </span>
+                                <img src="./assets/images/upwork.png" alt="upwork logo;" class="img-fluid tst-ft-img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
